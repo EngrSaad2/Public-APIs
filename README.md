@@ -14,7 +14,7 @@ Phone: +8801904654712<br>
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-A public API for this project can be found [here](https://github.com/davemachado/public-api) - thanks to [DigitalOcean](https://www.digitalocean.com/) for helping us provide this service...!
+A public API for this project can be found [here](https://github.com/davemachado/public-api) - thanks to [DigitalOcean](https://www.digitalocean.com/) for helping us provide this service!
 
 For information on contributing to this project, please see the [contributing guide](.github/CONTRIBUTING.md).
 
