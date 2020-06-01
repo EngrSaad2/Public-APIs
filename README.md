@@ -1,6 +1,6 @@
 # Public APIs [![Build Status](https://api.travis-ci.org/public-apis/public-apis.svg)](https://travis-ci.org/public-apis/public-apis)
 
-A collective list of free APIs for use in software and web development.
+A collective list of free APIs for use in software and web development..
 
 <b>SAAD</b> <br>
 Email: saad@triangeltech.com<br>
